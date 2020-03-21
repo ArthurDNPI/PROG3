@@ -1,0 +1,12 @@
+--Exercicio 1--
+
+automóvel: veículo que realiza transporte de carga, pessoas ou os dois juntos e é movido a motor,
+que nescessita de um condutor, um freio, um acelerador, embreagem, ignição.
+
+objetos
+ condutor: sem um condutor o carro não funciona, pois é ele quem aciona todas os objetos.
+ freio: o freio serve para parar o veículo.
+ acelerador: serve para fazer o veículo começar a se locomover ou aumentar a sua velocidade.
+ ignição: serve para deixar todas as outros objetos funcionas se o condutor não acionar a ignição nenhum dos objetos funciona.
+ embragem: serve para mudar as marchas do carro.
+
